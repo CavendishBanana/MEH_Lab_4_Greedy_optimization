@@ -1,3 +1,4 @@
+//Krzysztof Gryko - Lab 4 -Greedy optimization methods
 #include <iostream>
 #include <vector>
 #include <cmath>
